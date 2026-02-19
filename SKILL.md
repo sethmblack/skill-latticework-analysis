@@ -4,7 +4,7 @@ description: Apply Charlie Munger's latticework of mental models to analyze comp
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4361
+  version: 1.0.4362
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - latticework-analysis
