@@ -3,8 +3,9 @@ name: latticework-analysis
 description: Apply Charlie Munger's latticework of mental models to analyze complex problems through multiple disciplinary lenses.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4361
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - latticework-analysis
 - writing
